@@ -1,0 +1,33 @@
+body {
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size: 13px;
+    line-height: 1.3em;
+    color: #242729;
+}
+
+#top-menu-bar {
+    border-top: 3px solid #f48024;
+    height: 60px;
+    box-shadow: 0 1px 0 rgba(12,13,14,0.15), 0 0 0 transparent, 0 0 0 transparent, 0 0 0 transparent;
+    background-color: #fafafb;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    transition: box-shadow cubic-bezier(.165, .84, .44, 1) .25s;
+}
+
+.top-menu-item {
+    color: #535a60 !important;
+}
+
+.top-menu-item-right {
+    color: rgb(132, 141, 149) !important;
+}
+
+#stack-overflow-image {
+    height: 55px;
+    width: 45px;
+}
+
+path {
+    color: #535a60 !important;
+}
+
